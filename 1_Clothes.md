@@ -9,7 +9,7 @@
 ### 👕 Clothes
 |  Clothes Length  |  chest circumference(周长)  |  Sleeve(袖子) Length  |  Shoulder Width  |
 |:----------------:|:-------:|:-------------------:|:----------------:|
-|      74(CM)      |          128(CM)          |       60(CM)        |      60(CM)      |
+|      74(CM)      |          118(CM)          |       60(CM)        |      60(CM)      |
 
 ### 👖 Pants
 | Hips(臀围) | Thigh(大腿) circumference | Trouser cuffs(裤脚口) | Pants Length |
